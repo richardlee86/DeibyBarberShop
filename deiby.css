@@ -1,0 +1,46 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+    color: rgb(187, 202, 216);
+    font-family: Satisfy, cursive;
+    text-shadow: 0px 4px 3px rgb(16, 11, 77);
+}
+body{
+    background: url(https://images.unsplash.com/photo-1547997825-ac153dc46a97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#start {
+   font-size: large;
+   color: lightgray;
+   border: 2px lightslategray solid;
+}
+#contact{
+    color: lightslategrey;    
+}
+#contact:hover{
+    color:#000000;
+}
+navbar{
+    background-color: #06011f;
+}
+h1{
+    font-weight: 700;
+    font-size: 5em;
+}
+html{
+    height: 100%;
+}
+
+hr{
+    border: 0;
+  clear:both;
+  display:block;
+  width: 250px;               
+  background-color:rgba(190, 174, 26, 0.966);
+  height: 1px;
+
+}
